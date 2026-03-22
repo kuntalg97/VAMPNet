@@ -1,0 +1,1 @@
+This is an implementation of VAMPNet (Noe, 2018) to analyze the hexamer-hexamer tilt angles (and hence curvature) for the HIV-1 capsid patch. It takes these angles as input features and constucts probabilistic states in the VAMP space, characterized by different tilts. Work in progress.
